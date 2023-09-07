@@ -1,5 +1,7 @@
 # Fandom-quiz-on-TMKOC
-A quiz app to find out how much do you know about one of the popular comedy Tv show, Tarak Mehta ka Oolta Chashmah(TMKOC).
+Hey! Welcome to Quiz on TMKOC. Let's find out more about it.
+
+It is a quiz app to find out how much do you know about one of the popular comedy Tv show, Taarak Mehta ka Ooltah Chashmah(TMKOC).
 
 Key features:
 
